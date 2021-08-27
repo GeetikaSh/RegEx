@@ -9,7 +9,7 @@ Regular expressions are extremely useful in extracting information from text suc
 ## RegEx Functions
 
 * ***re***: import reodule
-* ***findall()***:Returns a list containing all matches
+* ***findall()***:Returns a list containing all matches https://github.com/GeetikaSh/RegEx/blob/main/Matching%20Specific%20String
 * ***search()***:Returns a Match object if there is a match anywhere in the string
 * ***split()***: Returns a list where the string has been split at each match
 * ***sub()***:	 Replaces one or many matches with a string\
