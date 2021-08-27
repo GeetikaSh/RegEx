@@ -1,0 +1,9 @@
+Regex_Pattern = r'hackerrank'	# Do not delete 'r'.
+
+import re #import RegEx
+
+Test_String = input()
+
+match = re.findall(Regex_Pattern, Test_String) #Ffindall(): finds the pattern i.e hackerrank; in the Test Sring input by the user
+
+print("Number of matches :", len(match))
