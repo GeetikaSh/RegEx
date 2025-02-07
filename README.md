@@ -1,11 +1,16 @@
 # Regular Expression(RegEx)
-A Regular Expression (Regex) is a sequence of characters that define a search pattern. It is used for text searching, pattern matching, and data validation in programming languages like Python, Java, JavaScript, and SQL.\
+A Regular Expression (Regex) is a sequence of characters that define a search pattern.\
 \
 ![In this image a Regex Pattern is Matches with the Test String](https://s3.amazonaws.com/hr-challenge-images/13619/1449634776-aeeb4b9294-ach01_.png)\
-**In this image a Regex Pattern is matched with the Test String**\
-\
-Regular expressions are extremely useful in extracting information from text such as: code, log files, spreadsheets, documents, etc. We can match a specific string ***X*** in a test string ***S*** by making our regex pattern ***X***. 
-\
+**In this image a Regex Pattern is matched with the Test String**
+
+## Regex Applications
+Some of the common **RegEx** applications are:
+- **Validation:** Example ; email, phone number, pasword strength
+- **Search and Replace:** Example- finding and replacing charcters in a document.
+- **Extraction Information:** Example- extacting URLs, dates, specific word from text.
+- **Log file Analysis:** Example- filtering logs for specific patterns.
+
 ## RegEx Functions
 
 * ***re***: import reodule
