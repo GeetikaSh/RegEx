@@ -1,5 +1,5 @@
 # Regular Expression(RegEx)
-A regular expression is a sequence of characters that define a search pattern. It is mainly used for string pattern matching.\
+A Regular Expression (Regex) is a sequence of characters that define a search pattern. It is used for text searching, pattern matching, and data validation in programming languages like Python, Java, JavaScript, and SQL.\
 \
 ![In this image a Regex Pattern is Matches with the Test String](https://s3.amazonaws.com/hr-challenge-images/13619/1449634776-aeeb4b9294-ach01_.png)\
 **In this image a Regex Pattern is matched with the Test String**\
